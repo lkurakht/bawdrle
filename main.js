@@ -2922,7 +2922,7 @@ currentStreak : "Текущая серия",
               /** @type {*} */
               var i = JSON.parse(window.localStorage.getItem(STORE_ID));
               /** @type {string} */
-              var level = "Беларускі Bawdrle ".concat(datas);
+              var level = "Матерный Bawdrle ".concat(datas);
               /** @type {string} */
               level = level + " ".concat(active ? val : "X", "/").concat(6);
               if (currentAnime) {
